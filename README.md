@@ -8,7 +8,7 @@ Electrocardiogram (ECG) signals are recordings of the electrical activity of the
 
 ## Dataset
 
-The dataset used in this project is obtained from Kaggle and is derived from the PTB Diagnostic ECG Database. It has been preprocessed for convenience and contains a combination of normal and abnormal ECG signals. The dataset is available in CSV format.
+The dataset used in this project is obtained from Kaggle and is derived from the PTB Diagnostic ECG Database. The dataset is available in CSV format, contains a combination of labeled normal and abnormal ECG signals. 
 
 ## Signal Processing
 
