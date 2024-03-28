@@ -14,7 +14,7 @@ The dataset used in this project is obtained from Kaggle and is derived from the
 
 Before classification, the ECG signals undergo signal processing techniques to enhance their quality:
 
-### Denoising using bior4.4 Wavelet Transform:
+### Denoising:
 
 The ECG signals are denoised using the bior4.4 wavelet transform, which is effective in removing noise while preserving important signal characteristics.
 
